@@ -1,1 +1,1 @@
-# Projekt_Gry_w_Java
+# Projekt Gry w Java
